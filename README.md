@@ -1,2 +1,12 @@
-# ft_transcendence
-This project is centered around the design, development, and organization of a full-stack web application.
+# Transcendence
+
+## How to run
+
+* Recommended OS: Linux
+* have docker installed and running
+* In your terminal run: ```make```
+
+## Not sure what commands are available?
+
+* type ```make help```
+* this will display all available commands of the Makefile
